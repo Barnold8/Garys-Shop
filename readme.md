@@ -11,3 +11,11 @@ This is only possible because of [kluvo2](https://www.reddit.com/user/kluvo2/). 
 # How to use
 
 Make or edit a new collection of your choosing and click the extension icon!
+
+
+# What did I contribute to this?
+
+* Solved bug in grabbing session cookie, this was extension specific
+* Provided more in depth information on how to use tool when encountering it
+
+All of the heavy lifting was again, [kluvo2](https://www.reddit.com/user/kluvo2/)
