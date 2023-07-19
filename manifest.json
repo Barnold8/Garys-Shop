@@ -9,15 +9,13 @@
       "48": "images/icon-48.png",
       "128": "images/icon-128.png"
     },
+    
+    "background": {
+      "service_worker": "scripts/background.js"
 
-    "content_scripts": [
-      {
-        "matches": ["https://steamcommunity.com/workshop/editcollection/*"],
-        "js": ["scripts/content.js"]
-      }
-    ],
+    },
 
-      "action": {        
+      "action": {
         "default_icon": {
           "16": "images/icon-16.png",
           "32": "images/icon-32.png",
@@ -26,6 +24,9 @@
         }
       },
 
-  
-      "permissions": ["activeTab","scripting"]
+
+      "permissions": ["activeTab","scripting","cookies"]
+
+      
+
 }
