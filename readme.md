@@ -10,6 +10,14 @@ This is only possible because of [kluvo2](https://www.reddit.com/user/kluvo2/). 
 
 # How to use
 
+## Installation
+
+You can **either**, git clone the project via ``git clone https://github.com/Barnold8/Garys-Shop`` or by [downloading the project](https://github.com/Barnold8/Garys-Shop/archive/refs/heads/main.zip). They both achieve the same results. From here put the extension anywhere on your system deemed suitable. 
+
+Now, you need to go to [the extensions page](chrome://extensions) and click **Developer mode**. From here, three new options will appear. We care about **Load unpacked** for this one. Click that and then select the **Garys shop** folder and now you will have the extension!
+
+### manual
+
 Make or edit a new collection of your choosing and click the extension icon!
 
 
